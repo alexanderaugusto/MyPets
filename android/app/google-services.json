@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "264151029687",
+    "firebase_url": "https://mypets-f59bd.firebaseio.com",
+    "project_id": "mypets-f59bd",
+    "storage_bucket": "mypets-f59bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264151029687:android:0db08684359347c5",
+        "android_client_info": {
+          "package_name": "com.mypets"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "264151029687-h1ah3gf4oof8f6386v5hemkspeb0goip.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAeRHd_7xVyZo5gkx5ZG40ZSnugnBc4yI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "264151029687-h1ah3gf4oof8f6386v5hemkspeb0goip.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "264151029687-bb0c61et5nqvgoed59bg6q669s52q116.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mypets.firebase"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264151029687:android:1a1c5f49cef3a79e",
+        "android_client_info": {
+          "package_name": "com.mypets.mypets"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "264151029687-h1ah3gf4oof8f6386v5hemkspeb0goip.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAeRHd_7xVyZo5gkx5ZG40ZSnugnBc4yI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "264151029687-h1ah3gf4oof8f6386v5hemkspeb0goip.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "264151029687-bb0c61et5nqvgoed59bg6q669s52q116.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mypets.firebase"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
